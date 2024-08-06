@@ -7,7 +7,4 @@ Plataforma de gerenciamento de projetos, desenvolvida em reactjs (Apenas versão
 https://main--smartspend-gg.netlify.app/
 
 ## Preview
-![smartspend](https://github.com/Gleicianegaldino/SmartSpend/assets/78940661/63472843-319c-435f-9756-b6ebf407f415)
-
-
-
+![SmartSpend](https://github.com/user-attachments/assets/b45350ec-903c-43a2-86eb-06dc8ed3d821)
